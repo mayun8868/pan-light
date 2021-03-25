@@ -11,7 +11,7 @@
 |_|                      |___/       
                              
 ```
-# pan-light
+# pan-light-test
 
 >　pan-light 是一款不限速的百度网盘客户端, 基于 golang + Qt5 开发.
 本项意义在于探究 golang 在图形界面客户端; web 服务端; 事件调度, websocket, p2p 长连接 等方面的应用和实践.
